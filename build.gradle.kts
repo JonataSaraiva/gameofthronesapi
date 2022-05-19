@@ -21,6 +21,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("io.github.serpro69:kotlin-faker:1.10.0")
+    implementation("eu.rekawek.toxiproxy:toxiproxy-java:2.1.7")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 

@@ -1,0 +1,5 @@
+toxiproxy:
+  name: "http-proxy"
+  latency: 3000
+  proxed-endpoint: "localhost:9090"
+  original-endpoint: "localhost:8080"
